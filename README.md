@@ -1,7 +1,7 @@
 # ET2UtilitiesBreaker
 去除EnigTech2中的模组限制
 # ETutilBreaker食用方法 
-前往 [Releases](https://github.com/SuperIQBOOST/ET2UtilitiesBreaker/releases) 下载Releases，然后将jar放在.minecraft或者版本隔离(.Minecraft\Versions\版本游戏名\)下面<br>
+前往 [Releases](https://github.com/SuperIQBOOST/ET2UtilitiesBreaker/releases) 下载，然后将jar放在.minecraft或者版本隔离(.Minecraft\Versions\版本游戏名\)下面<br>
 前往添加Java虚拟机参数 -javaagent:etutilsBreaker.jar<br>
 启动即可一键裂开限制
 # 加模组崩端是怎么一回事
